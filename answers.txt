@@ -1,0 +1,1 @@
+rebase rewrites the commit history using the source branch, while merge puts a new version in the commit history and keeps track of it.
