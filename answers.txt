@@ -1,2 +1,1 @@
-A remote repository is a repository hosted by a remote hosting service, in this case gitHub. They are used 
-so mulitple people can share code and work on code togethr and synchronize work
+rebase rewrites the commit history using the source branch, while merge puts a new version in the commit history and keeps track of it.
