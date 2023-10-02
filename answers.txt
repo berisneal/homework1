@@ -1,2 +1,2 @@
-A remote repository is a repository hosted by a remote hosting service, in this case gitHub. They are used 
+A  remote repository is a repository hosted by a remote hosting service, in this case gitHub. They are used 
 so mulitple people can share code and work on code togethr and synchronize work
